@@ -1,0 +1,21 @@
+共包含3个文件夹以及1个实验报告
+文件夹：
+Task2:
+    bootblock.s（自己设计）
+    createimage
+    ld.script
+    Makefile
+Task3:
+    bootblock.s （自己设计）
+    kernel.c
+    createimage
+    ld.script
+    Makefile
+Task4:
+    bootblock.s（自己设计）
+    kernel.c
+    createimage.c（自己设计）
+    ld.script
+    Makefile（删除注释）
+实验报告：
+Project1+Bootloader设计文档_李云志_2015K8009929014.pdf
